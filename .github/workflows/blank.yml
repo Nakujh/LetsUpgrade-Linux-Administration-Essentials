@@ -48,7 +48,7 @@ jobs:
           # Read file contents as body:
           # body: file://README.md
           to: narendra.jha@ncr.com
-          from: jhanarendra96@gmail.com # <user@example.com>
+          from: jha.nj.narendra26@gmail.com # <user@example.com>
           # Optional content type (defaults to text/plain):
           content_type: text/html
           # Optional converting Markdown to HTML (set content_type to text/html too):
